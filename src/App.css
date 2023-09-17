@@ -1,5 +1,6 @@
 .header{
-  margin: 0px 80px;
+  width: 600px;
+  margin: 10px auto 0px;
   padding: 20px ;
   display: flex;
   align-items: center;
@@ -16,8 +17,9 @@
 }
 
 .cards--section{
+  width: 600px;
   background-color: rgb(220, 244, 247);
-  margin: 0px 80px;
+  margin: auto;
   padding: 20px;
   display: flex;
 }
