@@ -1,3 +1,5 @@
+figma design link : https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?type=design&node-id=2-2&mode=design&t=xLgbcJRzSi8AApOk-0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
